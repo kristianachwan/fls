@@ -1,0 +1,5 @@
+# Build output from build.sh
+/FLS
+/FLS.app/
+
+.DS_Store
